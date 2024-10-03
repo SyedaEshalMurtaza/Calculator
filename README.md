@@ -9,3 +9,38 @@ Features
 .Clear the display to start fresh.
 .Responsive design—works great on any screen size.
 .Real-time input display and results.
+
+Live Demo
+Check it out in action: Live Demo (https://calculatorproject-five.vercel.app/)
+
+Screenshots
+Here’s a sneak peek of the calculator:
+![Screenshot 2024-10-03 121104](https://github.com/user-attachments/assets/5a0c347d-8aa2-4e7e-94c3-bbf431d64b44)
+
+Project Breakdown
+Here’s what’s inside the project:
+calculator/
+│
+├── index.html       # HTML structure
+├── style.css        # CSS for styling
+├── script.js        # JavaScript logic
+└── README.md        # You’re reading it right now!
+
+Built With
+HTML: For the page structure.
+CSS: To make it look good!
+JavaScript: For all the math magic.
+
+How to Use It
+Just open the calculator and start typing numbers.
+Click the operation buttons (like +, -, *, /) to perform calculations.
+Click = to get your result.
+Use the C button to clear everything if you want to start over.
+
+What’s Next?
+I’m planning to add a few more cool features:
+
+A scientific calculator mode with advanced functions.
+A calculation history to track previous results.
+Polishing the design for a more modern look.
+
