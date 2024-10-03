@@ -108,3 +108,41 @@
     </script>
 </body>
 </html>
+        <div>
+            <button onclick="clearDisplay()">CE</button>
+            <button onclick="clearAll()">AC</button>
+        </div>
+    <script>
+        
+
+        function appendNumber(number) {
+            currentInput += number;
+            display.value = currentInput;
+        }
+
+        function appendOperator(operator) {
+            currentInput += operator;
+            display.value = currentInput;
+        }
+
+        function calculate() {
+            try {
+                display.value = eval(currentInput);
+                currentInput = display.value;
+            } catch (error) {
+                display.value = "Error";
+            }
+        }
+
+        function clearDisplay() {
+            currentInput = currentInput.slice(0, -1);
+            display.value = currentInput;
+        }
+
+        function clearAll() {
+            currentInput = '';
+            display.value = currentInput;
+        }
+    </script>
+</body>
+</html>
