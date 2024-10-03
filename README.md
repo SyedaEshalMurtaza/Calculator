@@ -22,11 +22,11 @@ Here’s a sneak peek of the calculator:
 Project Breakdown
 Here’s what’s inside the project:
 calculator/
-│
-├── index.html       # HTML structure
-├── style.css        # CSS for styling
-├── script.js        # JavaScript logic
-└── README.md        # You’re reading it right now!
+1. index.html   # HTML structure
+2. style.css    # CSS for styling
+3. script.js    # JavaScript logic
+4. README.md    # You're reading it right now!
+
 
 Built With
 HTML: For the page structure.
@@ -40,9 +40,10 @@ Click = to get your result.
 Use the C button to clear everything if you want to start over.
 
 What’s Next?
+
 I’m planning to add a few more cool features:
 
-A scientific calculator mode with advanced functions.
-A calculation history to track previous results.
-Polishing the design for a more modern look.
+.A scientific calculator mode with advanced functions.
+.A calculation history to track previous results.
+.Polishing the design for a more modern look.
 
