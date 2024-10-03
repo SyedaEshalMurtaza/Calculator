@@ -15,7 +15,13 @@ Check it out in action: Live Demo (https://calculatorproject-five.vercel.app/)
 
 Screenshots
 Here’s a sneak peek of the calculator:
-![Screenshot 2024-10-03 121104](https://github.com/user-attachments/assets/5a0c347d-8aa2-4e7e-94c3-bbf431d64b44)
+![Screenshot 2024-10-03 121104]   
+
+
+
+              (https://github.com/user-attachments/assets/5a0c347d-8aa2-4e7e-94c3-bbf431d64b44)
+
+              
 
 Project Breakdown
 Here’s what’s inside the project:
