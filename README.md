@@ -43,7 +43,9 @@ What’s Next?
 
 I’m planning to add a few more cool features:
 
-.A scientific calculator mode with advanced functions.
-.A calculation history to track previous results.
-.Polishing the design for a more modern look.
+A scientific calculator mode with advanced functions.
+
+A calculation history to track previous results.
+
+Polishing the design for a more modern look.
 
