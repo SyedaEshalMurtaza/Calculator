@@ -19,7 +19,7 @@ Here’s a sneak peek of the calculator:
 
 
 
-              (https://github.com/user-attachments/assets/5a0c347d-8aa2-4e7e-94c3-bbf431d64b44)
+  (https://github.com/user-attachments/assets/5a0c347d-8aa2-4e7e-94c3-bbf431d64b44)
 
               
 
